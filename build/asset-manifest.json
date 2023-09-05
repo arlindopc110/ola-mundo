@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ola-mundo/static/css/main.c8eb205e.css",
+    "main.js": "/ola-mundo/static/js/main.13f6c2cc.js",
+    "static/media/sobre_mim_capa.png": "/ola-mundo/static/media/sobre_mim_capa.e14cf8593039831a7a7a.png",
+    "static/media/sobre_mim_foto.png": "/ola-mundo/static/media/sobre_mim_foto.ea6f35ccb42375460967.png",
+    "static/media/minha_foto.jpg": "/ola-mundo/static/media/minha_foto.cafd626c12be243cd805.jpg",
+    "static/media/erro_404.png": "/ola-mundo/static/media/erro_404.0e2bac6e50d6b7a478e7.png",
+    "static/media/circulo_colorido.png": "/ola-mundo/static/media/circulo_colorido.ecb808787d5f7b169583.png",
+    "static/media/marca_registrada.svg": "/ola-mundo/static/media/marca_registrada.fd230562dcd9ba45061e083be6216066.svg",
+    "index.html": "/ola-mundo/index.html",
+    "main.c8eb205e.css.map": "/ola-mundo/static/css/main.c8eb205e.css.map",
+    "main.13f6c2cc.js.map": "/ola-mundo/static/js/main.13f6c2cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8eb205e.css",
+    "static/js/main.13f6c2cc.js"
+  ]
+}
