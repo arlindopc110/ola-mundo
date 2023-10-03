@@ -1,6 +1,6 @@
  <h1>Projeto React de Páginas Dinâmicas</h1>
 
-   <p>Bem-vindo ao projeto React de Páginas Dinâmicas! Este é um repositório que abriga uma aplicação web React que oferece uma experiência de navegação contínua, sem a necessidade de recarregar a página. Além disso, este README fornecerá informações importantes sobre o criador deste projeto e os principais tópicos de programação abordados na aplicação.</p>
+   <p>Bem-vindo ao projeto React de Páginas Dinâmicas, Olá Mundo! Este é um repositório que abriga uma aplicação web React que oferece uma experiência de navegação contínua, sem a necessidade de recarregar a página. Além disso, este README fornecerá informações importantes sobre o criador deste projeto e os principais tópicos de programação abordados na aplicação.</p>
 
    <h2>Sobre o Projeto</h2>
 
@@ -18,7 +18,7 @@
 
    <h2>Sobre o Criador</h2>
 
-   <p>Este projeto foi criado por <em>Nome do Criador</em>, um apaixonado por desenvolvimento web e React. <em>Nome do Criador</em> possui vasta experiência em desenvolvimento front-end e tem como objetivo contribuir para a comunidade de programação, compartilhando conhecimentos e experiências valiosas.</p>
+   <p>Este projeto foi criado por <em>Arlindo Custodio</em>, um apaixonado por desenvolvimento web e React. <em>Arlindo Custodio</em> possui experiência em desenvolvimento front-end e tem como objetivo contribuir para a comunidade de programação, compartilhando conhecimentos e experiências valiosas.</p>
 
    <h2>Tópicos de Programação Abordados</h2>
 
@@ -28,3 +28,6 @@
         <li><strong>Integração de Dados</strong>: A aplicação pode se conectar a fontes de dados externas ou a um banco de dados interno para carregar e exibir conteúdo dinâmico.</li>
         <li><strong>Personalização de UI</strong>: A aplicação permite a personalização da interface do usuário, demonstrando técnicas de estilização e interatividade.</li>
     </ul>
+    <br><br>
+
+   <li>Link de deploy do projeto: https://ola-mundo-hf27.vercel.app/</li>
