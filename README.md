@@ -1,10 +1,10 @@
  <h1>Projeto React de Páginas Dinâmicas</h1>
 
-    <p>Bem-vindo ao projeto React de Páginas Dinâmicas! Este é um repositório que abriga uma aplicação web React que oferece uma experiência de navegação contínua, sem a necessidade de recarregar a página. Além disso, este README fornecerá informações importantes sobre o criador deste projeto e os principais tópicos de programação abordados na aplicação.</p>
+   <p>Bem-vindo ao projeto React de Páginas Dinâmicas! Este é um repositório que abriga uma aplicação web React que oferece uma experiência de navegação contínua, sem a necessidade de recarregar a página. Além disso, este README fornecerá informações importantes sobre o criador deste projeto e os principais tópicos de programação abordados na aplicação.</p>
 
-    <h2>Sobre o Projeto</h2>
+   <h2>Sobre o Projeto</h2>
 
-    <h3>Descrição</h3>
+   <h3>Descrição</h3>
 
     <p>Este projeto tem como objetivo criar uma aplicação web altamente responsiva e interativa usando a biblioteca JavaScript React. As páginas neste aplicativo são projetadas para carregar e exibir conteúdo dinâmico sem a necessidade de atualizar a página, proporcionando aos usuários uma experiência de usuário mais fluida e envolvente.</p>
 
